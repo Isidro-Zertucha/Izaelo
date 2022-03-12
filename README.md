@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Izael Zertucha
+- 👀 I’m interested in automation engineering
+- 🌱 I’m currently learning Python and it’s frameworks
+- 💞️ I’m looking to collaborate on HMI developement with kivy and Backend with django
+- 📫 How to reach me t.me/izaelo
